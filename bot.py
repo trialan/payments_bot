@@ -13,8 +13,8 @@ from database import get_collection
 from utils import print_col
 
 
-BOT_KEY = "5349682845:AAEBZB8TwDeuSgNlMORs4M00EaZtDqht6go"
-STRIPE_TOKEN = "284685063:TEST:YWE1NmQzOGMyY2Ey"
+BOT_KEY = "<YOUR_BOT_KEY_HERE>"
+STRIPE_TOKEN = "<YOUR_TOKEN_HERE>"
 PRICE = 500
 
 
